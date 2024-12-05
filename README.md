@@ -21,3 +21,6 @@ Loading Datasets Utilize the "Get Data" function in Power BI to import the neces
 2. Addressing any missing values (Replace Values, Extract -> Delimeter).
 3. Verifying appropriate data types for all columns (On the left side of the column name).
 4. Adding new columns for appropriate analysis (Add Column -> Custom Column).
+
+# Milestone_4
+The final dashboard has been uploaded, where I used KPI, Dax Measures, to visualise and understand the data better
